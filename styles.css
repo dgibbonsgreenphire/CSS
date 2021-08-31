@@ -1,3 +1,13 @@
+@import url("https://use.typekit.net/qbq7piw.css");
+
+h1 {
+  color: #00703c;
+  font-size: 30px;
+  font-family: freight-sans-pro, FreightSans Pro, sans-serif;
+  font-weight: 400;
+  margin-top: -10px;
+}
+
 h2 {
   color: #595959;
   font-size: 17px;
