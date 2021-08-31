@@ -1,0 +1,70 @@
+h2 {
+  color: #595959;
+  font-size: 17px;
+  font-family: freight-sans-pro, FreightSans Pro, sans-serif;
+  font-weight: 700;
+  margin-bottom: -10px;
+}
+
+.widget-article__body {
+  margin-top: -40px;
+  font-family: freight-sans-pro, FreightSans Pro, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+p,
+ul,
+ol {
+  font-family: freight-sans-pro, FreightSans Pro, sans-serif;
+  font-size: 14px;
+  color: #595959;
+}
+
+ol > li::marker {
+  font-weight: 600;
+}
+
+ul {
+  margin-left: 20px;
+}
+
+button {
+  background-color: #8dc545;
+  height: 30px;
+  padding: 0px 25px;
+  color: #014b28;
+  font-weight: 600;
+  font-family: freight-sans-pro, FreightSans Pro, sans-serif;
+  box-shadow: none;
+  border: none;
+  margin-left: 40px;
+}
+
+button:hover {
+  background-color: #014b28;
+  color: white;
+  cursor: pointer;
+}
+
+strong {
+  font-family: freight-sans-pro, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+em {
+  font-family: freight-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+img {
+  margin-left: 40px;
+  border: 1px solid #cccccc;
+  margin-top: -10px;
+}
+
+.pi {
+  margin-left: 40px;
+}
