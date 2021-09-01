@@ -36,9 +36,6 @@ ol > li::marker {
   font-variant-numeric: lining-nums;
 }
 
-ul {
-  margin-left: 20px;
-}
 
 button {
   background-color: #8dc545;
