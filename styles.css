@@ -36,6 +36,9 @@ ol > li::marker {
   font-variant-numeric: lining-nums;
 }
 
+ .step-number {
+        font-weight: 700;
+      }
 
 button {
   background-color: #8dc545;
