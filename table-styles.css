@@ -1,0 +1,104 @@
+@import url("https://use.typekit.net/qbq7piw.css");
+
+h1 {
+  color: #00703c;
+  font-size: 30px;
+  font-family: freight-sans-pro, FreightSans Pro, sans-serif;
+  font-weight: 400;
+  margin-top: -10px;
+}
+
+h2 {
+  color: #595959;
+  font-size: 17px;
+  font-family: freight-sans-pro, FreightSans Pro, sans-serif;
+  font-weight: 700;
+  margin-bottom: -10px;
+}
+
+.widget-article__body {
+  margin-top: -40px;
+  font-family: freight-sans-pro, FreightSans Pro, sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+p,
+ul,
+ol {
+  font-family: freight-sans-pro, FreightSans Pro, sans-serif;
+  font-size: 14px;
+  color: #595959;
+}
+
+ol > li::marker {
+  font-weight: 700;
+  font-variant-numeric: lining-nums;
+}
+
+.step-number {
+  font-weight: 700;
+}
+
+button {
+  background-color: #8dc545;
+  height: 30px;
+  padding: 0px 25px;
+  color: #014b28;
+  font-weight: 600;
+  font-family: freight-sans-pro, FreightSans Pro, sans-serif;
+  box-shadow: none;
+  border: none;
+  margin-left: 40px;
+}
+
+button:hover {
+  background-color: #014b28;
+  color: white;
+  cursor: pointer;
+}
+
+strong {
+  font-family: freight-sans-pro, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+em {
+  font-family: freight-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+img {
+  border: 1px solid #cccccc;
+  margin-top: -10px;
+}
+
+.pi {
+  margin-left: 40px;
+}
+
+table {
+  border: 0.5px solid #cccccc;
+  margin: 15px;
+  width: 90%;
+}
+
+td {
+  border: 0.5px solid #cccccc;
+  vertical-align: inherit;
+}
+
+td p {
+  padding: 0px 10px 0px 10px;
+  line-height: 20px;
+}
+
+h2 {
+  padding: 10px 20px 5px 15px;
+}
+
+.section_header {
+  background-color: #f2f2f2;
+}
