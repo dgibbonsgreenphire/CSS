@@ -1,0 +1,104 @@
+/* Content Wrapper */
+
+.px-dialog-wrapper {
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    text-align: left;
+    color: rgb(110,110,110);
+    padding: 40px 40px 40px 40px;
+    width: 100%;
+}
+
+/* Dialog Title */
+
+.px-template-title {
+    font-size: 28px;
+    
+    color: #000;
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+  
+}
+
+.px-example-class{
+  color: #747474;
+  font-family:monospace;
+}
+
+/* Tooltip Content */
+
+.px-tooltip-content-wrapper {
+  	font-family: Roboto, sans-serif;
+    width: 100%;
+    padding: 10px 20px 20px 20px ;
+    font-size: 14px;
+    color: #000;
+    text-align: left;
+}
+
+/* Tooltip Title */
+
+.px-tooltip-title-wrapper {
+  	font-family: Roboto, sans-serif;
+    text-align: left;
+    padding: 20px 0px 0px 20px;
+    color: #000;
+    font-size: 18px;
+   font-weight: 500;
+}
+
+/* Step Navigation */
+
+.px-step-navigation{
+  	
+    width: 100%;
+    padding: 5px 20px 20px 20px;
+    display : -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-between;
+    line-height: normal;
+}
+
+/* Step Buttons */
+
+.px-step-navigation-buttons{
+    display : -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+/* Step Button */
+
+.px-step-navigation-button{
+  	font-family: Roboto, sans-serif;
+    padding: 8px 12px 8px 12px;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+}
+
+/* Next Button */
+
+.px-step-navigation-next{
+  	font-family: Roboto, sans-serif;
+    margin-left: 10px;
+}
+
+/* Back Button */
+
+.px-step-navigation-back{
+
+}
+
+/* PX ✕ close button */
+.px-close-button {
+   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><g fill='none' fill-rule='evenodd'><path d='M0 0h30v30H0z'/><g stroke='rgb(75, 75, 75)'><path d='M19.243 10.757l-8.486 8.486M10.757 10.757l8.486 8.486'/></g></g></svg>");
+  display: initial;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 20px;
+  height: 20px;
+  background-size: 40px;
+}
