@@ -6,6 +6,7 @@ h1 {
   font-family: freight-sans-pro, FreightSans Pro, sans-serif;
   font-weight: 400;
   margin-top: -10px;
+  margin-bottom: 30px;
 }
 
 h2 {
@@ -45,11 +46,16 @@ button {
   height: 30px;
   padding: 0px 25px;
   color: #014b28;
-  font-weight: 600;
+  font-weight: 700;
   font-family: freight-sans-pro, FreightSans Pro, sans-serif;
   box-shadow: none;
   border: none;
-  margin-left: 40px;
+  margin-left: 12.5px;
+}
+
+button a {
+  color: inherit !important;
+  text-decoration: none !important;
 }
 
 button:hover {
@@ -101,8 +107,19 @@ h2 {
 
 .section_header {
   background-color: #f2f2f2;
+  position: sticky;
+  top: 0;
 }
 
 .fa-check {
   color: #00703c;
+}
+
+a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+img:hover {
+  cursor: pointer;
 }
