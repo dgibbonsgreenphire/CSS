@@ -117,11 +117,19 @@ img {
 }
 
 table {
-  border: 0;
+  border: 0.5px solid #cccccc;
+  margin: 15px;
+  width: 90%;
 }
 
 td {
-  vertical-align: top;
+  border: 0.5px solid #cccccc;
+  vertical-align: inherit;
+}
+
+td p {
+  padding: 0px 10px 0px 10px;
+  line-height: 20px;
 }
 
 a {
