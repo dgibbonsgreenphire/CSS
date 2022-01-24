@@ -116,18 +116,18 @@ img {
   margin-left: 40px;
 }
 
-table {
+.tableStyle {
   border: 0.5px solid #cccccc;
   margin: 15px;
   width: 90%;
 }
 
-td {
+.tableStyle td {
   border: 0.5px solid #cccccc;
   vertical-align: inherit;
 }
 
-td p {
+.tableStyle td p {
   padding: 0px 10px 0px 10px;
   line-height: 20px;
 }
